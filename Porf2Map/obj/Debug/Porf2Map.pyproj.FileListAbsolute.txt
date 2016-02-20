@@ -1,0 +1,13 @@
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\obj\Debug\attach_server.py
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\obj\Debug\visualstudio_py_debugger.py
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\obj\Debug\visualstudio_py_repl.py
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\obj\Debug\visualstudio_py_util.py
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\obj\Debug\__init__.py
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\obj\Debug\__main__.py
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\bin\AzureSetup.cfg
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\bin\wfastcgi.py
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\obj\Debug\web.config
+C:\Users\Xinghai\Documents\GitHub\Porf2Map\Porf2Map\obj\Debug\web.debug.config
